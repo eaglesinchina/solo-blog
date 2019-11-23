@@ -10,8 +10,9 @@ eagles
 
 ### 最新
 
-* [123](http://www.threebeer.cn:8080/articles/2019/11/23/1574484197407.html)
-* [世界，你好！](http://www.threebeer.cn:8080/hello-solo)
+* [我在 GitHub 上的开源项目](https://www.threebeer.cn/my-github-repos)
+* [123](https://www.threebeer.cn/articles/2019/11/23/1574484197407.html)
+* [世界，你好！](https://www.threebeer.cn/hello-solo)
 
 
 
